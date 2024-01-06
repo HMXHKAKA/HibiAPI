@@ -26,6 +26,7 @@ server:
       - "https://localhost.tiangolo.com"
       - "http://localhost"
       - "http://localhost:8080"
+      - "https://pixiv.xiaohan-kaka.gay“
     credentials: true
     methods: ["*"]
     headers: ["*"]
