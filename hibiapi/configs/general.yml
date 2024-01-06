@@ -26,12 +26,10 @@ server:
       - "https://localhost.tiangolo.com"
       - "http://localhost"
       - "http://localhost:8080"
-      - "https://pixiv.xiaohan-kaka.gay“
-      
     credentials: true
     methods: ["*"]
     headers: ["*"]
-
+    
   allowed-forward: null # Reference: https://stackoverflow.com/questions/63511413
 
 limit: # 单IP速率限制策略
