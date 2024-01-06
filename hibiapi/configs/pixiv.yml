@@ -9,6 +9,6 @@ account:
   # Pixiv 登录凭证刷新令牌 (Refresh Token)
   # 获取方法请参考: https://github.com/mixmoe/HibiAPI/issues/53
   # 支持使用多个账户进行负载均衡, 每行一个token
-  token: "H51zZdDIW8u0o3HSNCoVcg5lRitKsos2AwSusDp5x-o"
+  token: "p0NrI5eRqqyQ333qPWJk9y_BY0toMJIajpGc8sVBr_Y"
 
 language: zh-cn # 返回语言, 会影响标签的翻译
